@@ -59,42 +59,6 @@ Driven by curiosity and continuous learning, I thrive on tackling challenging pr
 * 🥇 **ISF Finalist** – National tech innovation funding winner (10,000 EGP)
 * 🤖 **ARC Finalist** – Competed and excelled in robotics competition
 
----
-
-## 🐍 The Growing Snake of Success
-
-Imagine a little snake 🐍 that starts small, but every time it learns something new or overcomes a challenge, it *eats* a goal 🍎 and grows longer and stronger!
-
-Just like this snake, I keep pushing forward —
-growing my skills, overcoming bugs, and leveling up in my developer journey.
-
-Here's a fun way to see it:
-
-No matter how long the road or how many bugs bite, the snake never stops eating and growing — and neither do I. 💪
-
----
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-[![GitHub Marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![code style](https://img.shields.io/badge/code_style-dartfmt-00B4AB.svg?style=flat-square)
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 
 ---
 
