@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Mobile Application Developer** specializing in **Flutter** with a strong foundation in API integration, UI/UX principles, and backend development.  
+I'm a passionate **Mobile Application Developer** specializing in **Flutter** with a strong foundation in API integration, UI/UX principles, and backend development.
 Currently, I’m honing my skills at **Elsewedy International School for Applied Technology & Software Development**, where I focus on crafting high-quality, real-world mobile applications.
 
 Driven by curiosity and continuous learning, I thrive on tackling challenging projects that make a difference, while sharpening my expertise to become a top-tier developer. 🚀
@@ -13,11 +13,11 @@ Driven by curiosity and continuous learning, I thrive on tackling challenging pr
 
 ## 💼 What I Do
 
-- 📱 Build sleek, performant cross-platform apps using **Flutter & Dart**  
-- 🔗 Seamlessly integrate RESTful APIs with **Dio** and robust **.NET** backends  
-- 🔐 Implement secure **Firebase Authentication** and manage data with **Firestore**  
-- ⚙️ Master **State Management** using **Provider**, **Riverpod**, and **BLoC** for scalable apps  
-- 🎨 Design clean, user-centric UI/UX aligned with practical software architecture patterns  
+* 📱 Build sleek, performant cross-platform apps using **Flutter & Dart**
+* 🔗 Seamlessly integrate RESTful APIs with **Dio** and robust **.NET** backends
+* 🔐 Implement secure **Firebase Authentication** and manage data with **Firestore**
+* ⚙️ Master **State Management** using **Provider**, **Riverpod**, and **BLoC** for scalable apps
+* 🎨 Design clean, user-centric UI/UX aligned with practical software architecture patterns
 
 ---
 
@@ -25,58 +25,56 @@ Driven by curiosity and continuous learning, I thrive on tackling challenging pr
 
 ### 🖥️ Programming & Development
 
-| **Category**          | **Technologies & Tools** |
-|-----------------------|--------------------------|
-| **Languages**          | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
-| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-| **Backend & APIs**     | ![Dio](https://img.shields.io/badge/Dio-02569B?style=flat&logo=axios&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) |
-| **State Management**   | Provider, Riverpod, BLoC |
-| **Other Tools**        | Git, GitHub, Firebase, Firestore, Postman, UI/UX Design, Clean Architecture |
+| **Category**           | **Technologies & Tools**                                                                                                                                                                                                                                             |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**          | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white) |
+| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)                                                                                                                                                                    |
+| **Backend & APIs**     | ![Dio](https://img.shields.io/badge/Dio-02569B?style=flat\&logo=axios\&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat\&logo=dotnet\&logoColor=white)                                                                                   |
+| **State Management**   | Provider, Riverpod, BLoC                                                                                                                                                                                                                                             |
+| **Other Tools**        | Git, GitHub, Firebase, Firestore, Postman, UI/UX Design, Clean Architecture                                                                                                                                                                                          |
 
 ---
 
 ## 📚 Currently Learning
 
-- 🌟 Advanced Flutter concepts & design patterns  
-- 🏗️ Backend development with .NET  
-- 🧠 State management mastery with BLoC  
-- ⚙️ Embedded systems programming using C (STM32)  
+* 🌟 Advanced Flutter concepts & design patterns
+* 🏗️ Backend development with .NET
+* 🧠 State management mastery with BLoC
+* ⚙️ Embedded systems programming using C (STM32)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🛍 **E-Commerce App** – Full-stack Flutter application using Provider and .NET backend for seamless shopping experiences  
-- 📚 **Book Browser App** – Intuitive app to browse, search, and interact with books in a clean mobile UI  
-- 🏋️ **New Sport App** – Real-time connection platform linking athletes and coaches  
-- 🔐 **Login & Signup UI** – Beautiful, responsive UI with form validation and Dio-powered backend integration  
-- 🔢 **STM32 Password System** – Embedded access control system built with STM32 microcontroller and C programming  
+* 🛍 **E-Commerce App** – Full-stack Flutter application using Provider and .NET backend for seamless shopping experiences
+* 📚 **Book Browser App** – Intuitive app to browse, search, and interact with books in a clean mobile UI
+* 🏋️ **New Sport App** – Real-time connection platform linking athletes and coaches
+* 🔐 **Login & Signup UI** – Beautiful, responsive UI with form validation and Dio-powered backend integration
+* 🔢 **STM32 Password System** – Embedded access control system built with STM32 microcontroller and C programming
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **ISF Finalist** – National tech innovation funding winner (10,000 EGP)  
-- 🤖 **ARC Finalist** – Competed and excelled in robotics competition  
+* 🥇 **ISF Finalist** – National tech innovation funding winner (10,000 EGP)
+* 🤖 **ARC Finalist** – Competed and excelled in robotics competition
 
 ---
 
 ## 🐍 The Growing Snake of Success
 
-Imagine a little snake 🐍 that starts small, but every time it learns something new or overcomes a challenge, it *eats* a goal 🍎 and grows longer and stronger!  
+Imagine a little snake 🐍 that starts small, but every time it learns something new or overcomes a challenge, it *eats* a goal 🍎 and grows longer and stronger!
 
-Just like this snake, I keep pushing forward —  
-growing my skills, overcoming bugs, and leveling up in my developer journey.  
+Just like this snake, I keep pushing forward —
+growing my skills, overcoming bugs, and leveling up in my developer journey.
 
-Here's a fun way to see it:  
-
+Here's a fun way to see it:
 
 No matter how long the road or how many bugs bite, the snake never stops eating and growing — and neither do I. 💪
 
 ---
 
 ## 📊 GitHub Contributions – Feeding the Snake Daily
-
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/630593/screenshots/3355967/snake.gif" alt="Snake eating animation" width="150"/>
@@ -87,9 +85,11 @@ No matter how long the road or how many bugs bite, the snake never stops eating 
 </p>
 
 ---
+
 ## 💻 Code Snippet (Animated)
 
 ```dart
 void main() {
   print("Hello, Mustafa's world! 🚀");
 }
+```
