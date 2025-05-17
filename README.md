@@ -78,7 +78,7 @@ No matter how long the road or how many bugs bite, the snake never stops eating 
 ## 📊 GitHub Contributions – Feeding the Snake Daily
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4yNCYYwHTN5BQ/giphy.gif" alt="Snake eating animation" width="150"/>
+  <img src="https://cdn.dribbble.com/users/630593/screenshots/3355967/snake.gif" alt="Snake eating animation" width="150"/>
 </p>
 
 <p align="center">
@@ -90,17 +90,6 @@ No matter how long the road or how many bugs bite, the snake never stops eating 
 </p>
 
 ---
-
-## 💬 Inspirational Quotes
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
->
-> “First, solve the problem. Then, write the code.” – John Johnson  
->
-> “Simplicity is the soul of efficiency.” – Austin Freeman  
-
----
-
 ## 💻 Code Snippet (Animated)
 
 ```dart
