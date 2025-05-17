@@ -77,12 +77,9 @@ No matter how long the road or how many bugs bite, the snake never stops eating 
 
 ## 📊 GitHub Contributions – Feeding the Snake Daily
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/630593/screenshots/3355967/snake.gif" alt="Snake eating animation" width="150"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngmostafahateM&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://cdn.dribbble.com/users/630593/screenshots/3355967/snake.gif" alt="Snake eating animation" width="150"/>
 </p>
 
 <p align="center">
