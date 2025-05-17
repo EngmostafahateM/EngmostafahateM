@@ -65,9 +65,3 @@ I love learning new technologies, contributing to meaningful projects, and conti
 - 📱 WhatsApp: [+201156894699](https://wa.me/201156894699)  
 - 💼 LinkedIn: *Coming Soon*  
 - 🌐 Portfolio: *Coming Soon*
-
----
-
-## 📊 GitHub Stats
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafahatem&show_icons=true&theme=github_dark)
