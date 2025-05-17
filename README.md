@@ -80,8 +80,6 @@ No matter how long the road or how many bugs bite, the snake never stops eating 
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-Generates a snake game from a github user contributions graph
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -97,8 +95,7 @@ Generates a snake game from a github user contributions graph
   />
 </picture>
 
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
+
 ---
 
 ## 💻 Code Snippet (Animated)
