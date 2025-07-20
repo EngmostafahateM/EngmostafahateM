@@ -16,7 +16,7 @@ Driven by curiosity and continuous learning, I thrive on tackling challenging pr
 * 📱 Build sleek, performant cross-platform apps using **Flutter & Dart**
 * 🔗 Seamlessly integrate RESTful APIs with **Dio** and robust **.NET** backends
 * 🔐 Implement secure **Firebase Authentication** and manage data with **Firestore**
-* ⚙️ Master **State Management** using **Provider**, **Riverpod**, and **BLoC** for scalable apps
+* ⚙️ Master **State Management** using **Provider**and **BLoC** for scalable apps
 * 🎨 Design clean, user-centric UI/UX aligned with practical software architecture patterns
 
 ---
